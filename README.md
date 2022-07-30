@@ -1,6 +1,6 @@
 # ArrangeWindows.spoon
 
-A spoons (plugin) for [hammerspoon](https://www.hammerspoon.org) that lets you quickly rearrange all your windows to match various layouts.
+A spoon (plugin) for [hammerspoon](https://www.hammerspoon.org) that lets you quickly rearrange all your windows to match various layouts.
 
 ## Setup
 
